@@ -11,7 +11,7 @@ Scripts para configuração e gerenciamento automatizado de servidores VPS.
 ## Como usar
 
 ```bash
-bash <(curl -sSL setup.domain.com.br)
+bash <(curl -fsSL https://raw.githubusercontent.com/LuizBranco-ClickHype/SetupCH/main/Setup)
 ```
 
 ## Ferramentas disponíveis
